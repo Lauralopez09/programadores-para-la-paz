@@ -1,0 +1,8 @@
+Algoritmo: Uso responsable y trabajo colaborativo.
+
+1. Inicio 
+2. Buscar informacion en internet.
+3. Verficarque la informacion sea confiable.
+4. Compartir opiniones y participar de forma respetuosa.
+5. Organizar el trabajo usando herramientas como Git. 
+6. revisar y guardar los resultados.
