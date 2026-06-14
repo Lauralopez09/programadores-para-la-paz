@@ -1,0 +1,10 @@
+porque es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnologicas
+ propias utilizando tecnologias abiertas como Node.js
+ Garantiza la soverania digital reduce la dependcencia de grandes
+ plataformas corporativas y permite el desarrollo de soluciones 
+ a medida con un impacto directo y local 
+ como adaptabilidad local que permite crear plataformas que responden a 
+ necesidades especificas como (mapeo de riesgos, redes de  apoyo o gestion de recursos)
+ y autonomia y privacidad al alojar a sus propios servidores y controlar 
+ los datos las comunidades protegen la informacion sensible de sus miembros
+ 

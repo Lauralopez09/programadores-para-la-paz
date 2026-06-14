@@ -1,0 +1,8 @@
+Que es Node.js
+Respuesta B un entorno que permite ejecutar javascript en el servidor
+Que hace el comando nmp init
+Respuesta B inicializa un proyecto Node.js creando el archivo Package.json
+Que es Express en Node.js
+Respuesta B un framework para construir servidores y APls en Node.js
+Que hace una ruta en una aplicacion web 
+respuesta B define como responde el servidor cuando un usuario accede a una URL
